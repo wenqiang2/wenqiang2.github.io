@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Wenqiang Qu's Academic website"
+title                    : "Qu's Academic Room"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

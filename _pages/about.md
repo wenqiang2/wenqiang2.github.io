@@ -11,7 +11,7 @@ redirect_from:
 I am a third-year PhD student from [College of Sciences](https://scicol.shu.edu.cn/) , [Shanghai University](https://www.shu.edu.cn/). My research interests include the photo-assisted heterogeneous catalysis for the energy and environmental applications. 
 I am very fortunate to be supervised by [Prof. Dengsong Zhang](https://scicol.shu.edu.cn/info/1241/7550.htm) of International Joint Laboratory of Catalytic Chemistry, Shanghai University now.
 You can find my CV here: [[Wenqiang’s Curriculum Vitae](../assets/CV.pdf) 
-[Email](quwenqiang2021@163.com)
+Email: quwenqiang2021@163.com
 [Wechat](../images/wechat.jpg)
 
 

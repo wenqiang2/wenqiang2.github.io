@@ -8,6 +8,7 @@ venue: 'Applied Catalysis B: Environmental'
 paperurl: 'https://doi.org/10.1016/j.apcatb.2019.117880'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+url              : https://wenqiang2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 avatar           : "profile.png"
 Photocatalytic degradation of indoor volatile organic compounds (VOCs) is considered as one of a promising strategy for resolving indoor pollution problems. Zinc oxide has been widely used in photocatalysis. However, the photocorrosion of ZnO restrains its further application. Herein, we decorated ZnO with nanodiamonds to solve the photocorrosion problem of ZnO for photocatalytic degradation of gaseous toluene. The photocorrosion-resistance of nanodiamond-decorated ZnO catalysts was enhanced. It was demonstrated that after the decoration of nanodiamonds, the optical absorption and transient photocurrent were effectively increased, while the photoluminescence intensity and electrochemical impedance were greatly reduced, indicating that nanodiamonds decoration not only improved the light adsorption for ZnO, but also promoted the charge transfer and eventually enhanced the photocatalytic oxidation efficiency of toluene. We hope that this work could propose possible ways to relieve the photocorrosion of ZnO semiconductor in the photocatalytic application and provide new insights into the degradation of gaseous pollutants..
 

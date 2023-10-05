@@ -15,7 +15,7 @@ You can find my CV here: [[Wenqiang’s Curriculum Vitae](../assets/CV.pdf)
 
 Email: quwenqiang2021@163.com
 
-[Wechat](../images/wechat.jpg)
+Wechat scan code: [Wechat](../images/wechat.jpg)
 
 
 A data-driven personal website

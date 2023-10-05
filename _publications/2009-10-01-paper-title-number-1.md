@@ -13,4 +13,4 @@ Photocatalytic degradation of indoor volatile organic compounds (VOCs) is consid
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Appl. Catal. B 2019, 257, 117880.
+Recommended citation: Your Name, You. (2019), <i>Appl. Catal. B</i>. 257, 117880.

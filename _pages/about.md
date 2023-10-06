@@ -20,21 +20,34 @@ Wechat scan code: [Wechat](../images/wechat.jpg)
 
 Recent News
 ======
+1. By collaborating with Zhi Shen and other co-workers, we published a research paper titled "Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts" in <Environmental Science & Technology>" on Septe 11, 2023mber
 1. [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis on September 9th, 2023!](https://wenqiang2.github.io/portfolio/portfolio-1/)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-[More News](https://wenqiang2.github.io/portfolio/)
+
+
 
 Publications
 ======
-1. By collaborating with Zhi Shen and other co-workers, we published a research paper titled "Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts" in <Environmental Science & Technology>" on September 11, 2023
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+To be update
+
+[11] Shen, Z.; Wang, P.; Hu, X.; Qu, W.; Liu, X.; Zhang, D., Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts. Environmental Science & Technology 2023, 57 (38), 14472-14481.
+[10] Qu, W.; Wang, C.; Wang, P.; Shen, Y.; He, J.; Zhang, D., Insights into reaction pathway induced by d orbital occupancy on cobalt supported boron nitride for N2O catalytic decomposition. Applied Surface Science 2023, 636, 157792.
+[9] Zhang, P.; Chen, A.; Lan, T.; Qu, W.; Hu, X.; Zhang, K.; Zhang, D., Revealing the Dynamic Behavior of Active Sites on Acid-Functionalized CeO2 Catalysts for NOx Reduction. Langmuir 2023, 39 (25), 8889-8899.
+[8] Cai, C., Liu, K., Zhang, L., Li, F., Tan, Y., Li, P., Wang, Y., Wang, M., Feng, Z., Motta Meira, D., Qu, W., Stefancu, A., Li, W., Li, H., Fu, J., Wang, H., Zhang, D., Cortés, E., Liu, M., Angew. Chem. Int. Ed. 2023, 62, e202300873.
+[7] W. Qu, P. Wang, X. Chen, D. Zhang, Immunizing sulfate-mediated deactivation over TiO2 photocatalysts for gaseous benzene purification via self-adaptive deoxygenation of sulfate radicals, Applied Catalysis B: Environmental, 321 (2023) 122036. 
+[6] X. Zhang, J. Deng, T. Lan, Y. Shen, W. Qu, Q. Zhong, D. Zhang, Coking- and Sintering-Resistant Ni Nanocatalysts Confined by Active BN Edges for Methane Dry Reforming, ACS Applied Materials & Interfaces, 14 (2022) 25439-25447. 
+[5] J. Zhou, P. Wang, A. Chen, W. Qu, Y. Zhao, D. Zhang, NOx Reduction over Smart Catalysts with Self-Created Targeted Antipoisoning Sites, Environmental Science & Technology, 56 (2022) 6668-6677. 
+[4] L. Yan, Q. Wang, W. Qu, T. Yan, H. Li, P. Wang, D. Zhang, Tuning Tiδ+-Vo·-Ptδ+ interfaces over Pt/TiO2 catalysts for efficient photocatalytic oxidation of toluene, Chemical Engineering Journal, 431 (2022) 134209. 
+[3] C. Zhang, J. Zhang, Y. Shen, J. He, W. Qu, J. Deng, L. Han, A. Chen, D. Zhang, Synergistic Catalytic Elimination of NOx and Chlorinated Organics: Cooperation of Acid Sites, Environmental Science & Technology, 56 (2022) 3719-3728. 
+[2] Qu, W.; Wang, P.; Gao, M.; Hasegawa, J.-y.; Shen, Z.; Wang, Q.; Li, R.; Zhang, D., Delocalization Effect Promoted the Indoor Air Purification via Unlocking Directly Ring-open Pathway of Toluene. Environmental Science & Technology, 54 (2020) 9693-9701.
+[1] Liu, J.; Wang, P.; Qu, W.; Li, H.; Shi, L.; Zhang, D., Nanodiamond-decorated ZnO catalysts with enhanced photocorrosion-resistance for photocatalytic degradation of gaseous toluene. Applied Catalysis B: Environmental, 257 (2019) 117880. 
+
+
+
+
+
+1. By collaborating with Zhi Shen and other co-workers, we published a research paper titled "Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts" in <Environmental Science & Technology>" on Septe 11, 2023mber
+
+
 
 Site-wide configuration
 ------

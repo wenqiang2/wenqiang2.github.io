@@ -15,7 +15,7 @@ Catalyst deactivation caused by alkali metal poisoning has long been a key bottl
 
 ---
 "Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts"
-excerpt: "<br/><img src='/images/Publication/2023SZ.jpg'>"
+<br/><img src='/images/Publication/2023SZ.jpg'>
 ---
 
 <i>Environ. Sci. Technol.</i>. (2023). 57(38). 14472–14481.

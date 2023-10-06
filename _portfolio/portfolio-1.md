@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "I gave a introduction speech to the fresh graduate students of the energy and environmental application by DFT methond on September 9th, 2023!<br/><img src='/images/0909.jpg'>"
+title: "DFT method introduction speech to the freshman"
+excerpt: "I delivered an introductory speech to the freshmen, discussing  the Density Functional Theory (DFT) method in the filed of heterogeneous catalysis on September 9th, 2023!<br/><img src='/images/0909.jpg'>"
 collection: portfolio
 ---
 

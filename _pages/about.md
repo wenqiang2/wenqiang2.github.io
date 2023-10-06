@@ -27,7 +27,7 @@ Recent News
 
 [Publications](https://wenqiang2.github.io/publications/)
 ======
-To be update
+To be update (2023.10.6)
 
 1. Shen, Z.; Wang, P.; Hu, X.; Qu, W.; Liu, X.; Zhang, D., [Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10). Environmental Science & Technology 2023, 57 (38), 14472-14481.
 1. Qu, W.; Wang, C.; Wang, P.; Shen, Y.; He, J.; Zhang, D., [Insights into reaction pathway induced by d orbital occupancy on cobalt supported boron nitride for N2O catalytic decomposition](https://wenqiang2.github.io/publication/2023-06-27-paper-paper-number9). Applied Surface Science 2023, 636, 157792.

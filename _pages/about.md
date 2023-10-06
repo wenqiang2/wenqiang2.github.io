@@ -41,10 +41,11 @@ To be update (2023.10.6)
 
 Education
 ======
-* B.S. in Safety Enginerring, Jiangsu University, 2014-2018
+* Ph.D in Condensed Matter Physics, Shanghai University, 2021-now 
 * M.S. in Inorganic Chemistry, Shanghai University, 2018-2021
-* Ph.D in Condensed Matter Physics, Shanghai University, 2021-now  
+* B.S. in Safety Enginerring, Jiangsu University, 2014-2018
 
+ 
 Skills
 ------
 

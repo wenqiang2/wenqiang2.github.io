@@ -42,7 +42,7 @@ Skills
  
   (ab-initio molecular dynamics, unpublished)
 
-   <br/><img src='/images/DFT/AIMD.mp4'>
+   <br/><img src='/images/DFT/DFT2.jpg'>
 
 
 [Publications](https://wenqiang2.github.io/publications/)

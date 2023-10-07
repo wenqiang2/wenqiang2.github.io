@@ -29,9 +29,15 @@ Skills
 ======
   Lab skills
   ---
-  Based on the instruments in our research lab in Shanghai University, I developed lots of in-situ characterizations, such as in-situ DRIFTS, in-situ Raman and etc. 
+  ·Based on the instruments in our research lab in Shanghai University, I developed lots of characterization skills and I can operate them independently:
+  in-situ FTIR, in-situ Raman, ALD, SEM, AFM, GC-MS, TPD-MS, XRD, BET, UV-vis and etc.
+  Here are some pictures of the charicterization process：
+  
+  
+  ·I was 
+  
 
-Based on the equipments in our research group in Shanghai University, I built some in-situ Charaterizations
+
 
 
 

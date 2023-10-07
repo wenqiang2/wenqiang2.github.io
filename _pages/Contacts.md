@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "Contacts"
+permalink: /Contacts/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
+
+
 Contact with me
 ======
 Adress: College of Sciences, Shanghai University, Shanghai City, China

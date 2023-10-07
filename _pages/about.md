@@ -13,12 +13,23 @@ I am very fortunate to be supervised by [Prof. Dengsong Zhang](https://scicol.sh
 
 You can find my CV here: [[Wenqiang’s Curriculum Vitae](../assets/CV.pdf) 
 
+Education
+======
+* Ph.D in Condensed Matter Physics, Shanghai University, 2021-now 
+* M.S. in Inorganic Chemistry, Shanghai University, 2018-2021
+* B.S. in Safety Enginerring, Jiangsu University, 2014-2018
+
+ 
+Skills
+======
+
+
 
 
 Recent News
 ======
-1. By collaborating with Zhi Shen and other co-workers, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>" on Septe 11, 2023mber
-1. [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis on September 9th, 2023!](https://wenqiang2.github.io/portfolio/portfolio-1/)
+1. [Sep. 11, 2023] By collaborating with Zhi Shen and other co-workers, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>" on Septe 11, 2023mber
+1. [Sep. 9, 2023] [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis on September 9th, 2023!](https://wenqiang2.github.io/portfolio/portfolio-1/)
 
 
 
@@ -37,17 +48,6 @@ To be update (2023.10.6)
 1. C. Zhang, J. Zhang, Y. Shen, J. He, W. Qu, J. Deng, L. Han, A. Chen, D. Zhang, [Synergistic Catalytic Elimination of NOx and Chlorinated Organics: Cooperation of Acid Sites](https://wenqiang2.github.io/publication/2022-02-28-paper-paper-number4). Environmental Science & Technology, 56 (2022) 3719-3728.
 1. Qu, W.; Wang, P.; Gao, M.; Hasegawa, J.-y.; Shen, Z.; Wang, Q.; Li, R.; Zhang, D., [Delocalization Effect Promoted the Indoor Air Purification via Unlocking Directly Ring-open Pathway of Toluene](https://wenqiang2.github.io/publication/2020-06-29-paper-paper-number2). Environmental Science & Technology, 54 (2020) 9693-9701.
 1. Liu, J.; Wang, P.; Qu, W.; Li, H.; Shi, L.; Zhang, D., [Nanodiamond-decorated ZnO catalysts with enhanced photocorrosion-resistance for photocatalytic degradation of gaseous toluene](https://wenqiang2.github.io/publication/2019-11-15-paper-paper-number1). Applied Catalysis B: Environmental, 257 (2019) 117880. 
-
-
-Education
-======
-* Ph.D in Condensed Matter Physics, Shanghai University, 2021-now 
-* M.S. in Inorganic Chemistry, Shanghai University, 2018-2021
-* B.S. in Safety Enginerring, Jiangsu University, 2014-2018
-
- 
-Skills
-======
 
 
 

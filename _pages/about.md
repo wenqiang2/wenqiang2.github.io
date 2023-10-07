@@ -32,7 +32,7 @@ Skills
   ·Based on the instruments in our research lab in Shanghai University, I developed lots of characterization skills and I can operate them independently:
   in-situ FTIR, in-situ Raman, in-situ XRD, ALD, SEM, AFM, GC-MS, TPD-MS, BET, UV-vis and etc.
   Here are some pictures of the charicterization process：
-  <br/><img src='/images/Publication/2020QWQ.jpg'>
+  <br/><img src='/images/instruments/labskill1.jpg'>
   
   ·I was 
   

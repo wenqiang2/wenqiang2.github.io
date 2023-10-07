@@ -19,17 +19,23 @@ Education
 * M.S. in Inorganic Chemistry, Shanghai University, 2018-2021
 * B.S. in Safety Enginerring, Jiangsu University, 2014-2018
 
- 
-Skills
-======
-
-
-
-
 Recent News
 ======
-1. [Sep. 11, 2023] By collaborating with Zhi Shen and other co-workers, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>".
+1. [Sep. 11, 2023] By collaborating with Zhi Shen, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>". 
 1. [Sep. 9, 2023] [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis!](https://wenqiang2.github.io/portfolio/portfolio-1/)
+
+
+Skills
+======
+  Lab skills
+  ---
+  Based on the instruments in our research lab in Shanghai University, I developed lots of in-situ characterizations, such as in-situ DRIFTS, in-situ Raman and etc. 
+
+Based on the equipments in our research group in Shanghai University, I built some in-situ Charaterizations
+
+
+
+
 
 
 

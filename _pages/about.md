@@ -63,7 +63,7 @@ Recent News
 ======
 1. [Sep. 11, 2023] By collaborating with Zhi Shen, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>". 
 1. [Sep. 9, 2023] [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis!](https://wenqiang2.github.io/portfolio/portfolio-1/)
-1. [More information here](https://wenqiang2.github.io/year-archive/)
+[More news see here](https://wenqiang2.github.io/year-archive/)
 
 
 Contact with me

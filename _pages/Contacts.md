@@ -4,7 +4,8 @@ title: "Contacts"
 permalink: /Contacts/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Contacts/
+  - /Contacts.html
 ---
 
 

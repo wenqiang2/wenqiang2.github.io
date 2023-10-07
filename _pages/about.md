@@ -35,6 +35,7 @@ Skills
   <br/><img src='/images/instruments/labskill1.jpg'>
   
   -I was also also familiar with the theoretical simulations, especially for the density functional theory (DFT) in the catalytic reactions. The electronic structure analysis and structure-activity relationship are particularly interested. At present, by operating the software of VASP and CP2K, I can carry out various calculations for the catalytic reactions, including the reaction processes (adsorption energy and transition states), electronic structure analysis (Bader charge analysis, differential charge density, projected density of state analysis, etc.) and ab-initio molecular dynamics (AIMD, time-dependent adsorption kinetics).
+  
   Here are some pictures of the calculations by myself：
   (Reaction process:https://doi.org/10.1016/j.apsusc.2023.157792)
    <br/><img src='/images/DFT/DFT1.jpg'>

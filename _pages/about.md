@@ -14,6 +14,15 @@ I am very fortunate to be supervised by [Prof. Dengsong Zhang](https://scicol.sh
 You can find my CV here: [Wenqiang’s Curriculum Vitae](https://wenqiang2.github.io/cv/)
 
 
+Recent News
+======
+1. [Oct. 7, 2023] I won the 2023 National Scholarship for PhD Graduate Students!
+1. [Sep. 11, 2023] By collaborating with Zhi Shen, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>". 
+1. [Sep. 9, 2023] [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis!](https://wenqiang2.github.io/portfolio/portfolio-1/)
+
+[More news click here](https://wenqiang2.github.io/year-archive/)
+
+
 Education
 ======
 * Ph.D in Condensed Matter Physics, Shanghai University, 2021-now 
@@ -60,15 +69,6 @@ To be update (2023.10.6)
 1. C. Zhang, J. Zhang, Y. Shen, J. He, W. Qu, J. Deng, L. Han, A. Chen, D. Zhang, [Synergistic Catalytic Elimination of NOx and Chlorinated Organics: Cooperation of Acid Sites](https://wenqiang2.github.io/publication/2022-02-28-paper-paper-number4). Environmental Science & Technology, 56 (2022) 3719-3728.
 1. Qu, W.; Wang, P.; Gao, M.; Hasegawa, J.-y.; Shen, Z.; Wang, Q.; Li, R.; Zhang, D., [Delocalization Effect Promoted the Indoor Air Purification via Unlocking Directly Ring-open Pathway of Toluene](https://wenqiang2.github.io/publication/2020-06-29-paper-paper-number2). Environmental Science & Technology, 54 (2020) 9693-9701.
 1. Liu, J.; Wang, P.; Qu, W.; Li, H.; Shi, L.; Zhang, D., [Nanodiamond-decorated ZnO catalysts with enhanced photocorrosion-resistance for photocatalytic degradation of gaseous toluene](https://wenqiang2.github.io/publication/2019-11-15-paper-paper-number1). Applied Catalysis B: Environmental, 257 (2019) 117880. 
-
-
-Recent News
-======
-1. [Oct. 7, 2023] I won the 2023 National Scholarship for PhD Graduate Students!
-1. [Sep. 11, 2023] By collaborating with Zhi Shen, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>". 
-1. [Sep. 9, 2023] [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis!](https://wenqiang2.github.io/portfolio/portfolio-1/)
-
-[More news click here](https://wenqiang2.github.io/year-archive/)
 
 
 Contact with me

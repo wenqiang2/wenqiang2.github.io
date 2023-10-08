@@ -45,7 +45,9 @@ Skills
   
   <br/><img src='/images/DFT/AIMD.mp4'>
 https://wenqiang2.github.io/issue/AIMD.mp4
+ <br/><img src='/images/DFT/1.gif'>
 
+ 
 [Publications](https://wenqiang2.github.io/publications/)
 ======
 To be update (2023.10.6)

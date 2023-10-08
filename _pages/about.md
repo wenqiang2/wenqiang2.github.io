@@ -44,6 +44,7 @@ Skills
     <br/><img src='/images/DFT/DFT2.jpg'>
   
   <br/><img src='/images/DFT/AIMD.mp4'>
+https://wenqiang2.github.io/issue/AIMD.mp4
 
 [Publications](https://wenqiang2.github.io/publications/)
 ======

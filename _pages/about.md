@@ -42,7 +42,6 @@ Skills
  
   (ab-initio molecular dynamics, unpublished)
     <br/><img src='/images/DFT/DFT2.jpg'>
-
     <br/><img src='/images/DFT/1.gif'>
 
  

@@ -43,7 +43,7 @@ Skills
   (ab-initio molecular dynamics, unpublished)
     <br/><img src='/images/DFT/DFT2.jpg'>
 
- <br/><img src='/images/DFT/1.gif'>
+    <br/><img src='/images/DFT/1.gif'>
 
  
 [Publications](https://wenqiang2.github.io/publications/)

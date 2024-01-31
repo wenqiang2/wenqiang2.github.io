@@ -16,6 +16,9 @@ You can find my CV here: [Wenqiang’s Curriculum Vitae](https://wenqiang2.githu
 
 Recent News
 ======
+1. [Jan.20, 2024]. Our recent work about the photocatlytic air purification has been accepted in the journal of Applied Catalysis B: Environmental, entitled [Synergistic Effect of Multiple Reactive Oxygen Species via Orbital-reconstructed Tungsten for Indoor Acetaldehyde Photocatalytic Oxidation](https://doi.org/10.1016/j.apcatb.2024.123763). 
+1. [Dec.26, 2023]. Our cooperation with Min Liu has been published in the journal of PNAS,entitled [Promoting C–F bond activation via proton donor for CF4 decomposition](https://www.pnas.org/doi/abs/10.1073/pnas.2312480120). Congratulations!
+1. [Dec.8, 2023]. I have arrived in Canada as a visiting PhD student, Looking forward to such a great journey!
 1. [Oct.19, 2023]. The research paper title "[Isolated Pt Atoms Embedded in CuO Nanocatalysts for Selective Oxidation of Ammonia](https://doi.org/10.1021/acscatal.3c02613) in ACS Catalysis was published! I contributed to the XAS data processing and analysis.
 1. [Oct. 7, 2023] I won the 2023 National Scholarship for PhD Graduate Students!
 1. [Sep. 11, 2023] By collaborating with Zhi Shen, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>". 

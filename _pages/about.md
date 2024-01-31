@@ -60,7 +60,7 @@ Skills
  
 [Publications](https://wenqiang2.github.io/publications/)
 ======
-To be update (2023.10.6)
+To be update (2024.01.26)
 1. Z Xu, W Qu, Q Yi, D Cheng, D Zhang, [Synergistic Effect of Multiple Reactive Oxygen Species via Orbital-reconstructed Tungsten for Indoor Acetaldehyde Photocatalytic Oxidation](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number13). Applied Catalysis B: Environmental, 123763.
 1. Y Chen, W Qu, T Luo, H Zhang, J Fu, H Li, C Liu, D Zhang, M Liu, [Promoting C–F bond activation via proton donor for CF4 decomposition](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number12). Proceedings of the National Academy of Sciences 120 (52), e2312480120.
 1. Lan, T.; Gao, M.; Hasegawa,J.; Shen, Y.; Qu, W.; Hu, Q.; Deng, J.; Cheng, D.; Zhang, D., [Isolated Pt Atoms Embedded in CuO Nanocatalysts for Selective Oxidation of Ammonia](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number11). ACS Catal. 2023, 13, 21, 14070–14079.

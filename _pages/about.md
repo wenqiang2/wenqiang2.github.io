@@ -61,7 +61,9 @@ Skills
 [Publications](https://wenqiang2.github.io/publications/)
 ======
 To be update (2023.10.6)
-
+1. Z Xu, W Qu, Q Yi, D Cheng, D Zhang, [Synergistic Effect of Multiple Reactive Oxygen Species via Orbital-reconstructed Tungsten for Indoor Acetaldehyde Photocatalytic Oxidation](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number13). Applied Catalysis B: Environmental, 123763.
+1. Y Chen, W Qu, T Luo, H Zhang, J Fu, H Li, C Liu, D Zhang, M Liu, [Promoting C–F bond activation via proton donor for CF4 decomposition](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number12). Proceedings of the National Academy of Sciences 120 (52), e2312480120.
+1. Lan, T.; Gao, M.; Hasegawa,J.; Shen, Y.; Qu, W.; Hu, Q.; Deng, J.; Cheng, D.; Zhang, D., [Isolated Pt Atoms Embedded in CuO Nanocatalysts for Selective Oxidation of Ammonia](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number11). ACS Catal. 2023, 13, 21, 14070–14079.
 1. Shen, Z.; Wang, P.; Hu, X.; Qu, W.; Liu, X.; Zhang, D., [Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts](https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10). Environmental Science & Technology 2023, 57 (38), 14472-14481.
 1. Qu, W.; Wang, C.; Wang, P.; Shen, Y.; He, J.; Zhang, D., [Insights into reaction pathway induced by d orbital occupancy on cobalt supported boron nitride for N2O catalytic decomposition](https://wenqiang2.github.io/publication/2023-06-27-paper-paper-number9). Applied Surface Science 2023, 636, 157792.
 1. Zhang, P.; Chen, A.; Lan, T.; Qu, W.; Hu, X.; Zhang, K.; Zhang, D., Revealing the Dynamic Behavior of Active Sites on Acid-Functionalized CeO2 Catalysts for NOx Reduction. Langmuir 2023, 39 (25), 8889-8899.

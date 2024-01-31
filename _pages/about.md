@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student from [College of Sciences](https://scicol.shu.edu.cn/) , [Shanghai University](https://www.shu.edu.cn/). I'm now doing researches as a visiting phD in University of Toronto, supervised by [prof. Ozin](http://nanowizard.info/). My research interests include the photo-assisted heterogeneous catalysis for the energy and environmental applications. 
+I am a third-year PhD student from [College of Sciences](https://scicol.shu.edu.cn/) , [Shanghai University](https://www.shu.edu.cn/). I'm now doing researches as a visiting phD in University of Toronto, supervised by [Prof. Geoffrey Ozin](http://nanowizard.info/). My research interests include the photo-assisted heterogeneous catalysis for the energy and environmental applications. 
 Meanwhile, I am very fortunate to be supervised by [Prof. Dengsong Zhang](https://scicol.shu.edu.cn/info/1241/7550.htm) of International Joint Laboratory of Catalytic Chemistry, Shanghai University now.
 
 You can find my CV here: [Wenqiang’s Curriculum Vitae](https://wenqiang2.github.io/cv/)

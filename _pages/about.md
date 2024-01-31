@@ -22,7 +22,7 @@ Recent News
 1. [Oct.19, 2023]. The research paper title "[Isolated Pt Atoms Embedded in CuO Nanocatalysts for Selective Oxidation of Ammonia](https://doi.org/10.1021/acscatal.3c02613) in ACS Catalysis was published! I contributed to the XAS data processing and analysis.
 1. [Oct. 7, 2023] I won the 2023 National Scholarship for PhD Graduate Students!
 1. [Sep. 11, 2023] By collaborating with Zhi Shen, we published a research paper titled "[Ultrahighly Alkali-Tolerant NOx Reduction over Self-Adaptive CePO4/FePO4 Catalysts]("https://wenqiang2.github.io/publication/2023-09-11-paper-paper-number10) in <Environmental Science & Technology>". 
-1. [Sep. 9, 2023] [I delivered an introductory speech to the freshmen, discussing the application of DFT method in the filed of heterogeneous catalysis!](https://wenqiang2.github.io/portfolio/portfolio-1/)
+1. [Sep. 9, 2023] [I delivered an introductory speech to the new members for our group, discussing the application of DFT method in the filed of heterogeneous catalysis!](https://wenqiang2.github.io/portfolio/portfolio-1/)
 
 [More news click here](https://wenqiang2.github.io/year-archive/)
 
